@@ -4,6 +4,8 @@
 # Prerequisites
 
   You will need node.js installed in your pc or server. A local webserver will be needed to serve your files (Apache webserver recommended).
+  You will also need some node modules. Install them by running $ npm install bootstrap and $ npm install ws.
+  These two modules are required.
 
 
  # Here are the steps to run this in your local machine:
