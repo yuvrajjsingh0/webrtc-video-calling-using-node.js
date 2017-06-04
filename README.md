@@ -13,3 +13,5 @@
 Step1: Open command prompt and change working directory to the app's directory and run node server.js. This is required otherwise your signaling server would not be started so no any call will take place.
 
 Step2: Open two tabs in your browser and point to url http://your_server:port/app's_directory/ and call each other.
+
+This script is portable you can port this in your php or ROR project just by adding <script src="core.js"></script> just before closing body tag and add markup like in index.html.
